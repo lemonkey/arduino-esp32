@@ -1,0 +1,7 @@
+esp-idf: v4.4.2 1b16ef6cfc
+arduino: feature/fws-custom-55d608e3-2.0.5 55d608e3
+esp_littlefs: v1.5.0 485a037
+esp-dl: master 0632d24
+esp32-camera: v2.0.2 5611989
+espressif__esp-dsp: 401faf8
+tinyusb: 111515a29
